@@ -1,5 +1,13 @@
 <h1 align="center">Auto Reply AI Chat Assistant</h1>
 
+## Project Overview:
+This project is designed to help small businesses automate customer support using intelligent, customizable chatbots powered by ChatGPT. It focuses on instantly answering FAQs, routing complex queries to human agents, and maintaining a warm, responsive tone—without sacrificing authenticity. Built for web integrations, this bot system bridges 24/7 service and personal touch, making it ideal for eCommerce, service-based businesses, and solo founders.
+
+## Core Features:
+- **Smart Routing Logic:** Automatically escalates to human agents when queries exceed predefined complexity or sentiment thresholds.
+- **Low-Cost, High-Quality LLM Support:** Integrates both OpenAI and DeepSeek models for cost-effective performance.
+- **Custom Flow Builder Support:** Compatible with Make.com, Zapier, or n8n to allow seamless low-code automations.
+
 <div align="center">
   <img
     src="https://github.com/user-attachments/assets/d200549d-7613-446f-a43b-19a4117ca360"
@@ -62,14 +70,6 @@
 <span>
 
 <div align="left">
-
-## Project Overview:
-This project is designed to help small businesses automate customer support using intelligent, customizable chatbots powered by ChatGPT. It focuses on instantly answering FAQs, routing complex queries to human agents, and maintaining a warm, responsive tone—without sacrificing authenticity. Built for web integrations, this bot system bridges 24/7 service and personal touch, making it ideal for eCommerce, service-based businesses, and solo founders.
-
-## Core Strengths:
-- **Smart Routing Logic:** Automatically escalates to human agents when queries exceed predefined complexity or sentiment thresholds.
-- **Low-Cost, High-Quality LLM Support:** Integrates both OpenAI and DeepSeek models for cost-effective performance.
-- **Custom Flow Builder Support:** Compatible with Make.com, Zapier, or n8n to allow seamless low-code automations.
 
 ## Features List:
 | Feature                      | Description                                                               |
